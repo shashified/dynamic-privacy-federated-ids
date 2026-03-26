@@ -98,4 +98,4 @@ scikit-learn
 
 ## Conference Paper Angle
 
-> *"We show that a simple threat-aware ε scheduler, requiring only ~25 lines of new code on top of standard FL, yields statistically significant F1 improvement under adversarial conditions while preserving the same expected privacy budget — achieving a favourable position on the privacy–utility Pareto frontier."*
+> "We show that a simple threat-aware ε scheduler, requiring only ~25 lines of new code on top of standard FL, yields statistically significant F1 improvement under adversarial conditions while preserving the same expected privacy budget, achieving a favourable position on the privacy utility cum Pareto frontier."*
